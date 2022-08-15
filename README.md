@@ -1,2 +1,2 @@
 # Java_programming
-This repository contains all basics of java prograaming(4th sem)
+This repository contains all basics of java programming(4th sem)
